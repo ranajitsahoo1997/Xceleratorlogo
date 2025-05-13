@@ -7,7 +7,6 @@ function SplashScreen() {
     <div className="splashScreen row">
       <div className="container">
         <Logo />
-        {/* <Name /> */}
       </div>
     </div>
   )
